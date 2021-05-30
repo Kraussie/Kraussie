@@ -1,16 +1,14 @@
-### Hi there 👋
+# Nate Krauss
+I am a rising second-year student in the Khoury College of Computer Sciences at Northeastern University studying Cybersecurity with a Cyber Operations concentration. 
 
-<!--
-**Kraussie/Kraussie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
+* **Proficient:** Java, Racket, HTML
+* **Familiar:** Python, HTML, CSS, JS
 
-Here are some ideas to get you started:
+## Software and Systems
+* **Proficient:** IntelliJ, Eclipse, Atom, MacOS, Windows, GitHub, Microsoft Office
+* **Familiar:** VSCode, Ubuntu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me and Learn More
+**Website:** www.natekrauss.me<br>
+**Email:** public@natekrauss.me
