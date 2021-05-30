@@ -10,5 +10,5 @@ I am a rising second-year student in the Khoury College of Computer Sciences at 
 * **Familiar:** VSCode, Ubuntu
 
 ## Contact Me and Learn More
-**Website:** www.natekrauss.me<br>
+**Website:** https://natekrauss.me<br>
 **Email:** public@natekrauss.me
